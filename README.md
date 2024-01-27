@@ -68,7 +68,6 @@ Emper places a paramount emphasis on data integrity and validation processes. Er
 
 For a visual preview of Emper, please refer to the [Screenshots-Emper](Screenshots-Emper/) folder.
 
-Feel free to customize this README further based on additional project details, specifications, or any specific instructions you want to provide to users.
 
 ## Additional Notes
 
