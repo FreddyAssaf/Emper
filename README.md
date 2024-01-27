@@ -73,4 +73,14 @@ Feel free to customize this README further based on additional project details, 
 ## Additional Notes
 
 Emper uses SQLite database, locate the cpp code responsible for the path of the database file and change it to your database file's path. Rebuild and run Emper.
+## Contributing
+
+
+Contributions to this project are welcome. If you'd like to contribute or report any issues, please follow these guidelines:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name.
+3. Make your changes or bug fixes.
+4. Test your changes thoroughly.
+5. Create a pull request, explaining the changes you made.
 
