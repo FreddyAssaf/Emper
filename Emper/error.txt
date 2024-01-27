@@ -1,0 +1,24 @@
+Not filling all textfields while inserting 2023-11-22 03:58:07
+Not filling all textfields while inserting 2023-11-22 03:58:59
+Not filling all textfields while inserting 2023-11-22 04:00:12
+Not filling all textfields before updating 2023-11-22 04:10:11
+Not filling all textfields before updating 2023-11-22 04:11:22
+Entering a negative salary for an insertable employee 2023-11-22 04:23:38
+Not filling all textfields while inserting 2023-11-22 04:26:07
+Entering a negative salary for an insertable employee 2023-11-22 04:26:14
+Not filling all textfields while inserting 2023-11-22 04:26:44
+Entering a negative salary for an insertable employee 2023-11-22 04:26:45
+Entering a negative salary for an insertable employee 2023-11-22 04:28:24
+Entering a negative salary for an insertable employee 2023-11-22 04:33:21
+Entering an existent id for an insertable employee 2023-11-22 04:33:39
+Entering a negative salary for an updatable employee 2023-11-22 04:36:39
+searching of an employee of a non existent id 2023-11-22 15:47:38
+Entering a negative salary for an insertable employee 2023-11-25 20:15:19
+Not entering id of an employee for deletion 2023-11-25 20:16:29
+searching of an employee of a non existent id 2023-11-25 20:16:38
+Not filling all textfields while inserting 2023-11-25 20:17:29
+error executing select query 2023-11-25 22:19:23
+Not entering id of an employee for deletion 2023-12-11 23:17:54
+Entering an existent id for an insertable employee 2023-12-12 09:55:15
+Not filling all textfields while inserting 2023-12-12 09:55:35
+error executing delete query 2023-12-12 09:56:02
